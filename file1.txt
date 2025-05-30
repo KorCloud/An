@@ -1,1 +1,2 @@
 Nội dung tiệp tin 1
+Thêm dòng mới vào tệp tin 1
